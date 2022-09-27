@@ -1,0 +1,1 @@
+# solhint-plugin-lido
