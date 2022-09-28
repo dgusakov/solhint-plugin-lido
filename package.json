@@ -1,0 +1,16 @@
+{
+  "name": "solhint-plugin-lido",
+  "version": "0.0.4",
+  "description": "Lido solhint plugin",
+  "keywords": [
+    "solhint",
+    "lido",
+    "plugin",
+    "solidity"
+  ],
+  "main": "index.js",
+  "repository": "git@github.com:dgusakov/solhint-plugin-lido.git",
+  "author": "Dmitry Gusakov <gusakov.dv@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
